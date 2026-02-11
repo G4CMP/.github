@@ -1,4 +1,4 @@
-# .github
+# Public organization profile
 
 This repository contains the public organization profile in the file profile/README.md.
 
